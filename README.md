@@ -1,4 +1,4 @@
-<h3 align="center">A fullstack developer student from Sweden</h3>
+<h3 align="center">A junior developer from Sweden</h3>
 
 🌱 I’m currently learning **.NET, C#, HTML/CSS, JavaScript
 
