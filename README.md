@@ -1,6 +1,6 @@
 <h3 align="center">A fullstack developer student from Sweden</h3>
 
-🌱 I’m currently learning **.NET, C#, JS, PHP**
+🌱 I’m currently learning **.NET, C#, HTML/CSS, JavaScript
 
 📫 How to reach me: **Contact me here!**
 
