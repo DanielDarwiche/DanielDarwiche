@@ -1,6 +1,6 @@
 <h3 align="center">A junior developer from Sweden</h3>
 <hr>
-<p  align="left">🌱 I’m currently learning: .NET, C#, HTML/CSS, JavaScript, React.js</p>
+<p  align="left">🌱 I’m currently learning: .NET, JavaScript, React.js</p>
 
 <p  align="left"> 📫 How to reach me: <i>Contact me here!</i> </p>
 <hr>
