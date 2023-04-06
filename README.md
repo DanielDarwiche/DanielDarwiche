@@ -1,8 +1,8 @@
 <h3 align="center">A junior developer from Sweden</h3>
 
-🌱 I’m currently learning **.NET, C#, HTML/CSS, JavaScript
+<p  align="left">🌱 I’m currently learning: .NET, C#, HTML/CSS, JavaScript, React.js</p>
 
-📫 How to reach me: **Contact me here!**
+<p  align="left"> 📫 How to reach me: <i>Contact me here!</i> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
