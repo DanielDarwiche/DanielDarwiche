@@ -1,7 +1,7 @@
 <h3 align="center">🤖A junior developer from Sweden 🎉</h3>
 <p align="center">🍉 🍇 🍊 🍋 🍌 🍍 🍎 🍐 🍓</p>
 <hr>
-<p  align="center">🌱 I’m currently learning: .NET, JavaScript, React.js</p>
+<p  align="center">🌱 I’m currently learning: JavaScript, .NET, React.js</p>
 <p  align="center"> 📫 How to reach me: <i>Contact me here!✍</i> </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
