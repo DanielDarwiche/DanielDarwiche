@@ -1,4 +1,4 @@
-<h3 align="center">🤖A junior developer from Sweden 🎉</h3>
+<h3 align="center">🤖I´m a full stack developer from Sweden 🎉</h3>
 <p align="center">🍉 🍇 🍊 🍋 🍌 🍍 🍎 🍐 🍓</p>
 <hr>
 <p  align="center">🌱 I’m currently learning: JavaScript, .NET, React.js</p>
