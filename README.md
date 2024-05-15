@@ -1,7 +1,7 @@
-<h3 align="center">🤖I´m a full stack developer from Sweden 🎉</h3>
+<h3 align="center">🤖I´m a full stack developer from Sweden 🤖</h3>
 <p align="center">🍉 🍇 🍊 🍋 🍌 🍍 🍎 🍐 🍓</p>
 <hr>
-<p  align="center">🌱 I’m currently learning: JavaScript, .NET, React.js</p>
+<p  align="center">🌱 I’m currently focusing on: React and Mantine</p>
 <p  align="center"> 📫 How to reach me: <i>Contact me here!✍</i> </p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
