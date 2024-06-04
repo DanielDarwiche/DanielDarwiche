@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! <br/>I´m a full stack developer from Sweden </h1>
+<h1 align="center">Hello! <br/>I´m a full stack developer from Sweden </h1>
 <p align="center">🌱 I’m currently focusing on: React and Mantine.</p>
 <p align="center"> 📫 How to reach me: <i>Contact me here!</i> </p>
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
