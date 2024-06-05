@@ -1,8 +1,8 @@
 <h1 align="center">Hello! <br/>I´m a full stack developer from Sweden </h1>
 <p>🌱 I’m currently focusing on projects using: Webdevelopment, React and TypeScript</p>
 <ul>
-    <li>A language learning game <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a> <a href="https://danieldarwiche.github.io/HangTheHombre/">(Deployment link)</a> </li>
-    <li>A developer portofolio for myself <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a></li>
+    <li>A language learning game <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a> <a href="https://danieldarwiche.github.io/HangTheHombre/">(Deployment)</a> </li>
+    <li>A developer portofolio for myself <a href="https://github.com/DanielDarwiche/MyPortfolio">Repo</a></li>
 </ul>
 
 
