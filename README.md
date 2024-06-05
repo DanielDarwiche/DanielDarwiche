@@ -1,6 +1,11 @@
 <h1 align="center">Hello! <br/>I´m a full stack developer from Sweden </h1>
-<p align="center">🌱 I’m currently focusing on: React and Mantine.</p>
-<p align="center"> 📫 How to reach me: <i>Contact me here!</i> </p>
+<p>🌱 I’m currently focusing on projects using: Webdevelopment, React and TypeScript</p>
+<ul>
+    <li>A language learning game <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a> <a href="https://danieldarwiche.github.io/HangTheHombre/">(Deployment link)</a> </li>
+    <li>A developer portofolio for myself <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a></li>
+</ul>
+
+
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/>
