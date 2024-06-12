@@ -1,7 +1,8 @@
 <h2 align="center">Hello! <br/>I´m a full stack developer from Sweden </h2>
 <p>🌱 I’m currently focusing on projects using: React and TypeScript</p>
 <ul>
-    <li>A language learning game <a href="https://github.com/DanielDarwiche/HangTheHombre">Repo</a> <a href="https://danieldarwiche.github.io/HangTheHombre/">(Deployment)</a> </li>
+    <li>A language learning game(swedish - spanish) <a href="https://github.com/DanielDarwiche/HangmanSpanish">Repo</a> <a href="https://hangmanspanish.netlify.app/">(Deployment)</a> ✅ 
+    </li>
     <li>A developer portfolio for myself <a href="https://github.com/DanielDarwiche/MyPortfolio">Repo</a></li>
     <li>A portfolio/gallery for an artist <a href="https://github.com/DanielDarwiche/HannaArtGallery">Repo</a></li>
 </ul>
