@@ -3,9 +3,8 @@
 <ul>
     <li>A language learning game(swedish - spanish) <a href="https://github.com/DanielDarwiche/HangmanSpanish">Repo</a> <a href="https://hangmanspanish.netlify.app/">(Deployment)</a> ✅ 
     </li>
-
-    <li>A developer portfolio for myself <a href="https://github.com/DanielDarwiche/MyPortfolio">Repo</a> </li>
-    <li>An art gallery site <a href="https://github.com/DanielDarwiche/ArtGallery">Repo</a></li>
+    <li>A developer portfolio for myself <a href="https://github.com/DanielDarwiche/MyPortfolio">Repo</a></li>
+    <li>An art gallery for an artist <a href="https://github.com/DanielDarwiche/ArtGallery">Repo</a></li>
 </ul>
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
 <p align="center">
