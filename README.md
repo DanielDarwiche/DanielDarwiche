@@ -1,5 +1,5 @@
 <h2 align="center">Hello! <br/>I´m a full stack developer from Sweden </h2>
-<p>🌱 I’m currently focusing on projects using: React and TypeScript</p>
+<p align="center">🌱 I’m currently focusing on projects using: React and TypeScript</p>
  
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
 <p align="center">
