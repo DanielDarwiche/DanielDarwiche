@@ -1,5 +1,8 @@
 <h2 align="center">Hello! <br/>I´m a full stack developer from Sweden </h2>
 <p align="center">🌱 I’m currently focusing on projects using: React and TypeScript</p>
+<br/>
+<p align="center">📱Swedish phone site to study spanish - https://spanska.netlify.app/</p>
+<br/>
  
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
 <p align="center">
