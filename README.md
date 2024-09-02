@@ -1,7 +1,8 @@
 <h2 align="center">Hello! <br/>I´m a full stack developer from Sweden </h2>
 <p align="center">🌱 I’m currently focusing on projects using: React and TypeScript</p>
 <br/>
-<p align="center">📱Swedish phone site to study spanish - https://spanska.netlify.app/</p>
+<p align="left">🎂 A website for a local baker - https://crumbsbyemelie.netlify.app</p>
+<p align="left">🦙 A mobile website game to study spanish from swedish - https://spanska.netlify.app</p>
 <br/>
  
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
@@ -10,7 +11,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/374144/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-<img src="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="Mantine" title="Mantine" width="40" height="40"/> 
+<img src
+="https://seeklogo.com/images/M/mantine-logo-235E19C978-seeklogo.com.png" alt="Mantine" title="Mantine" width="40" height="40"/> 
 <img src="https://orval.dev/images/emblem.svg" alt="Orval Restful Client Generator" title="Orval Restful Client Generator" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/azuredevops/azuredevops-plain.svg" alt="AzureDevOps" title="AzureDevOps" width="40" height="40"/> 
 <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="40" height="40"/> 
