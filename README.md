@@ -3,8 +3,10 @@
 <br/>
 <p align="left">🎂 A website for a local baker - https://crumbsbyemelie.netlify.app</p>
 <p align="left">🦙 A mobile website game to study spanish from swedish - https://spanska.netlify.app</p>
+<p align="left">💻 A developer portfolio built by using React and TypeScript - https://danieldarwiche.netlify.app</p>
 <br/>
  
+
 <p align="center"> <b>🤖 Languages and Tools: </b> </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" alt="HTML5" title="HTML5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/>
