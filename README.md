@@ -3,7 +3,7 @@
 <br/>
 <p align="left">🎂 A website for a local baker - https://crumbsbyemelie.netlify.app</p>
 <p align="left">🦙 A mobile website game to study spanish from swedish - https://spanska.netlify.app</p>
-<p align="left">💻 A developer portfolio built by using React and TypeScript - https://danieldarwiche.com/ [In case of DNS/Server problems visit https://danieldarwiche.netlify.app]</p>
+<p align="left">💻 A developer portfolio built by using React and TypeScript - https://danieldarwiche.com/</p>
 <br/>
  
 
