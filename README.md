@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&width=435&lines=Welcome!;+I%C2%B4m+Daniel+Darwiche%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&width=435&lines=Hello!;I'm+Daniel+Darwiche%F0%9F%A4%96)](https://git.io/typing-svg)
 <p align="center">🌱 I’m currently focusing on projects using: React.js, TypeScript, Next.js</p>
 <br/>
 <p align="left">Previous projects:</p>
