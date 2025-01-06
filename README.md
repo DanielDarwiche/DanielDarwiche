@@ -1,6 +1,7 @@
-<h2 align="center">Hello! <br/>I´m a full stack developer from Sweden </h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=3000&pause=1000&width=435&lines=Welcome!;+I%C2%B4m+Daniel+Darwiche%F0%9F%A4%96)](https://git.io/typing-svg)
 <p align="center">🌱 I’m currently focusing on projects using: React.js, TypeScript, Next.js</p>
 <br/>
+<p align="left">Previous projects:</p>
 <p align="left">🎂 A website for a local baker - https://crumbsbyemelie.netlify.app</p>
 <p align="left">🦙 A mobile website game to study spanish from swedish - https://spanska.netlify.app</p>
 <p align="left">💻 A developer portfolio built by using React and TypeScript - https://danieldarwiche.com/</p>
